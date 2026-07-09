@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Krrish Ronghe
 
+🎓 B.Tech IT Student | Data & Product Enthusiast
+📊 Aspiring Data Analyst / Product Analyst
+🚀 Building projects at the intersection of Data, Business & Technology
 
-**krrishronghe/krrishronghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on:
+→ Data Analytics Projects
+→ Business Case Studies
+→ Product Analytics
+→ AI-powered solutions
 
-Here are some ideas to get you started:
+Skills:
+SQL | Python | Excel | Power BI | Tableau | Statistics | Product Thinking
 
-- 🔭 I’m currently working on BA Project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Achievements:
+🏆 National Hackathon Participant
+👨‍💼 President - Code Club
+🚀 E-Cell Innovation Head
+...
